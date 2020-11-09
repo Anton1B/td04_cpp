@@ -1,0 +1,3 @@
+/home/anton1/Documents/TD C++/td04_cpp/build/CMakeFiles/rebuild_cache.dir
+/home/anton1/Documents/TD C++/td04_cpp/build/CMakeFiles/main_exe.dir
+/home/anton1/Documents/TD C++/td04_cpp/build/CMakeFiles/edit_cache.dir

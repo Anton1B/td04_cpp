@@ -1,0 +1,66 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anton1/Documents/TD C++/td04_cpp/src/Cell.cpp
+Cell.h
+/home/anton1/Documents/TD C++/td04_cpp/src/Cell.h
+
+/home/anton1/Documents/TD C++/td04_cpp/src/Cell.h
+cstdlib
+-
+fstream
+-
+
+/home/anton1/Documents/TD C++/td04_cpp/src/Path.cpp
+Path.h
+/home/anton1/Documents/TD C++/td04_cpp/src/Path.h
+
+/home/anton1/Documents/TD C++/td04_cpp/src/Path.h
+Cell.h
+/home/anton1/Documents/TD C++/td04_cpp/src/Cell.h
+
+/home/anton1/Documents/TD C++/td04_cpp/src/main.cpp
+cstdlib
+-
+vibes.h
+/home/anton1/Documents/TD C++/td04_cpp/src/vibes.h
+Path.h
+/home/anton1/Documents/TD C++/td04_cpp/src/Path.h
+Cell.h
+/home/anton1/Documents/TD C++/td04_cpp/src/Cell.h
+iostream
+-
+utility
+-
+map
+-
+
+/home/anton1/Documents/TD C++/td04_cpp/src/vibes.cpp
+vibes.h
+/home/anton1/Documents/TD C++/td04_cpp/src/vibes.h
+sstream
+-
+cstdlib
+-
+cstdio
+-
+cassert
+-
+
+/home/anton1/Documents/TD C++/td04_cpp/src/vibes.h
+vector
+-
+string
+-
+map
+-
+sstream
+-
+iostream
+-
+
